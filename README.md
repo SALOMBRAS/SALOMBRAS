@@ -1,15 +1,20 @@
 <p align="center">
   <a href="https://github.com/SALOMBRAS">
-    <img src="https://github.com/SALOMBRAS.png" width="150" alt="Pedro Salomão" style="border-radius: 50%;" />
+    <img src="https://github.com/SALOMBRAS.png" width="150" alt="Pedro Salomão" />
   </a>
 </p>
 
 <h1 align="center">Pedro Salomão</h1>
 
 <p align="center">
+  <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong><br />
+  Desenvolvimento Web | React | JavaScript | Supabase
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=F59E0B&center=true&vCenter=true&width=620&lines=Desenvolvedor+Web+em+forma%C3%A7%C3%A3o;Estudante+de+ADS;React+%2B+Supabase+%2B+Vite;Criando+projetos+reais+para+neg%C3%B3cios"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=F59E0B&center=true&vCenter=true&width=680&lines=Desenvolvedor+Web+em+forma%C3%A7%C3%A3o;Criando+projetos+reais+com+React+e+Supabase;Foco+em+interfaces+modernas+e+sistemas+funcionais;Projeto+em+destaque%3A+PneuFlow"
       alt="Typing SVG"
     />
   </a>
@@ -27,11 +32,19 @@
 
 ## Sobre mim
 
-Sou **Pedro Salomão**, estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor web em formação.
+Meu nome é **Pedro Salomão** e sou estudante de **Análise e Desenvolvimento de Sistemas**.
 
-Tenho foco em construir aplicações web úteis, responsivas e conectadas a soluções reais de negócio. Atualmente venho estudando e praticando com projetos que envolvem interface, autenticação, banco de dados, dashboards e publicação web.
+Tenho foco em **desenvolvimento web**, especialmente na criação de interfaces modernas, responsivas e conectadas a banco de dados. Estou construindo projetos práticos para evoluir como desenvolvedor e transformar ideias em aplicações funcionais.
 
-Meu principal projeto atual é o **PneuFlow**, uma plataforma para lojas de pneus criarem uma vitrine digital e organizarem catálogo, leads e vendedores.
+Atualmente estudo e pratico com:
+
+- React e componentização
+- JavaScript moderno
+- HTML e CSS responsivo
+- Integração com Supabase
+- Autenticação de usuários
+- Dashboards administrativos
+- Deploy e versionamento com Git/GitHub
 
 ---
 
@@ -39,25 +52,26 @@ Meu principal projeto atual é o **PneuFlow**, uma plataforma para lojas de pneu
 
 <table>
   <tr>
-    <td width="65%">
+    <td width="64%">
       <h3>PneuFlow</h3>
       <p>
-        Sistema de gestão e vitrine digital para lojas de pneus.
+        O <strong>PneuFlow</strong> é um sistema web para lojas de pneus criarem uma vitrine digital, organizarem o catálogo, acompanharem leads e gerenciarem vendedores.
       </p>
       <p>
-        O projeto reúne landing page, cadastro de lojistas, login, dashboard, catálogo de pneus, vendedores, leads via WhatsApp e vitrine pública da loja.
+        O projeto foi desenvolvido com foco em uso real e apresentação acadêmica, reunindo landing page, cadastro, login, dashboard, catálogo, vitrine pública e integração com WhatsApp.
       </p>
       <p>
-        <strong>Stack:</strong> React, JavaScript, Vite, Supabase e Vercel.
+        <strong>Tecnologias:</strong> React, JavaScript, Vite, Supabase e Vercel.
       </p>
       <a href="https://github.com/SALOMBRAS/PneuFlow">
         <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-PneuFlow-f59e0b?style=for-the-badge&logo=github&logoColor=111827" alt="Ver repositório PneuFlow" />
       </a>
     </td>
-    <td width="35%" align="center">
+    <td width="36%" align="center">
       <img src="https://img.shields.io/badge/PneuFlow-Sistema%20para%20lojas%20de%20pneus-111827?style=for-the-badge&labelColor=f59e0b" alt="PneuFlow" />
       <br /><br />
       <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
       <img src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
       <img src="https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
     </td>
@@ -119,7 +133,7 @@ Meu principal projeto atual é o **PneuFlow**, uma plataforma para lojas de pneu
 
 **Análise e Desenvolvimento de Sistemas**
 
-Estudos voltados para desenvolvimento de software, aplicações web, banco de dados, lógica de programação e construção de soluções digitais.
+Formação voltada para desenvolvimento de software, lógica de programação, banco de dados, aplicações web e construção de soluções digitais.
 
 </details>
 
@@ -163,5 +177,5 @@ Estudos voltados para desenvolvimento de software, aplicações web, banco de da
 ---
 
 <p align="center">
-  <i>Construindo projetos reais enquanto evoluo como desenvolvedor.</i>
+  <i>Construindo projetos reais enquanto evoluo como desenvolvedor web.</i>
 </p>

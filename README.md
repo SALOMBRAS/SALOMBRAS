@@ -15,7 +15,7 @@
   <a href="https://pedro-salomao.vercel.app"><img alt="Portfólio" src="https://img.shields.io/badge/Curr%C3%ADculo%20animado-pedro--salomao.vercel.app-f59e0b?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/pedro-salom%C3%A30/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pedro%20Salom%C3%A3o-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:pedrosalomao22099@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img alt="Visitas" src="https://komarev.com/ghpvc/?username=SALOMBRAS&style=for-the-badge&color=f59e0b&label=VISITAS" />
+  <a href="https://github.com/SALOMBRAS?tab=followers"><img alt="Seguidores" src="https://img.shields.io/github/followers/SALOMBRAS?style=for-the-badge&logo=github&logoColor=white&color=181717&label=SEGUIDORES" /></a>
 </p>
 
 </div>

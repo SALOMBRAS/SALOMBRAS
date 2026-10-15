@@ -21,6 +21,10 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Token pessoal (read:user) para o grafo incluir as contribuições
+          # privadas e de organização. Sem o secret, cai no token do Actions,
+          # que só enxerga repositório público.
+          github_token: ${{ secrets.GH_CONTRIB_TOKEN || github.token }}
           games: 'bomberman'
           hide_month_labels: 'false'
 

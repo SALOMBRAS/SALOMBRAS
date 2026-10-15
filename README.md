@@ -1,181 +1,209 @@
-<p align="center">
-  <a href="https://github.com/SALOMBRAS">
-    <img src="https://github.com/SALOMBRAS.png" width="150" alt="Pedro Salomão" />
-  </a>
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║  Pedro Salomão · README de perfil                            ║
+     ║  Paleta: âmbar #f59e0b · grafite #0f172a · texto #e5e7eb     ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,60:7c3aed,100:f59e0b&height=190&section=header&text=Pedro%20Salom%C3%A3o&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Desenvolvedor%20Full%20Stack%20%C2%B7%20Fortaleza%2C%20CE&descAlignY=54&descSize=17" alt="Pedro Salomão — Desenvolvedor Full Stack" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=F59E0B&center=true&vCenter=true&width=700&lines=Do+banco+de+dados+%C3%A0+tela;React%2C+Next.js%2C+Node+e+PostgreSQL;Integra%C3%A7%C3%B5es+com+WhatsApp+e+agentes+de+IA;3+sistemas+web+no+ar+%2B+app+Android" alt="Do banco de dados à tela" />
+</a>
+
+<p>
+  <a href="https://pedro-salomao.vercel.app"><img alt="Portfólio" src="https://img.shields.io/badge/Curr%C3%ADculo%20animado-pedro--salomao.vercel.app-f59e0b?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pedro-salom%C3%A30/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pedro%20Salom%C3%A3o-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:pedrosalomao22099@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img alt="Visitas" src="https://komarev.com/ghpvc/?username=SALOMBRAS&style=for-the-badge&color=f59e0b&label=VISITAS" />
 </p>
 
-<h1 align="center">Pedro Salomão</h1>
+</div>
 
-<p align="center">
-  <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong><br />
-  Desenvolvimento Web | React | JavaScript | Supabase
-</p>
+<!-- ────────────────  MINIGAME: BOMBERMAN NAS CONTRIBUIÇÕES  ──────────────── -->
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=F59E0B&center=true&vCenter=true&width=680&lines=Desenvolvedor+Web+em+forma%C3%A7%C3%A3o;Criando+projetos+reais+com+React+e+Supabase;Foco+em+interfaces+modernas+e+sistemas+funcionais;Projeto+em+destaque%3A+PneuFlow"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/SALOMBRAS">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-SALOMBRAS-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img alt="Área" src="https://img.shields.io/badge/%C3%81rea-Desenvolvimento%20Web-f59e0b?style=for-the-badge" />
-  <img alt="Curso" src="https://img.shields.io/badge/Curso-ADS-0f172a?style=for-the-badge" />
-</p>
+### 💣 Meu gráfico de contribuições virou Bomberman
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SALOMBRAS/SALOMBRAS/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SALOMBRAS/SALOMBRAS/output/bomberman-contribution-graph.svg">
+  <img alt="Bomberman explodindo o gráfico de contribuições do SALOMBRAS" src="https://raw.githubusercontent.com/SALOMBRAS/SALOMBRAS/output/bomberman-contribution-graph.svg">
+</picture>
+
+<sub>Gerado todo dia por <a href="https://github.com/abozanona/pacman-contribution-graph">pacman-contribution-graph</a> · cada bloco é um dia de commit</sub>
+
+</div>
 
 ---
 
-## Sobre mim
+## 🧠 Sobre mim
 
-Meu nome é **Pedro Salomão** e sou estudante de **Análise e Desenvolvimento de Sistemas**.
+```ts
+const pedro = {
+  cargo:     "Desenvolvedor Full Stack @ Trynux",
+  base:      "Fortaleza, CE 🇧🇷",
+  estudando: "Análise e Desenvolvimento de Sistemas — UFBRA (2024–2026)",
+  antes:     ["Assistente de TI", "Líder de manutenção industrial", "Design gráfico"],
+  faz:       "APIs, bancos de dados, apps mobile e integrações com WhatsApp e IA",
+};
+```
 
-Tenho foco em **desenvolvimento web**, especialmente na criação de interfaces modernas, responsivas e conectadas a banco de dados. Estou construindo projetos práticos para evoluir como desenvolvedor e transformar ideias em aplicações funcionais.
-
-Atualmente estudo e pratico com:
-
-- React e componentização
-- JavaScript moderno
-- HTML e CSS responsivo
-- Integração com Supabase
-- Autenticação de usuários
-- Dashboards administrativos
-- Deploy e versionamento com Git/GitHub
+- 🏗️ Construo sistemas **de ponta a ponta**: Postgres/Supabase, edge functions e telas em React/Next.js.
+- 🤖 No Trynux (SaaS para escritórios de advocacia): **~140 pull requests** em 9 repositórios do produto.
+- 🔐 Multi-tenant de verdade: **RLS**, guard de CI contra tabela sem policy e permissões por papel.
+- 💬 Atendimento por WhatsApp com **agentes de IA** e regras determinísticas de qualificação e agenda.
+- 🧪 Testes de banco com **pgTAP** e **PGlite** rodando no CI.
 
 ---
 
-## Projeto em destaque
+## 🚀 Projetos
 
 <table>
   <tr>
-    <td width="64%">
-      <h3>PneuFlow</h3>
+    <td width="50%" valign="top">
+      <h3>🏍️ Revisão 360</h3>
+      <p>Prontuário digital para oficina de motos: histórico com foto da peça antiga e da nova, motivo da troca e próxima revisão.</p>
       <p>
-        O <strong>PneuFlow</strong> é um sistema web para lojas de pneus criarem uma vitrine digital, organizarem o catálogo, acompanharem leads e gerenciarem vendedores.
+        <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" />
+        <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1" />
       </p>
-      <p>
-        O projeto foi desenvolvido com foco em uso real e apresentação acadêmica, reunindo landing page, cadastro, login, dashboard, catálogo, vitrine pública e integração com WhatsApp.
-      </p>
-      <p>
-        <strong>Tecnologias:</strong> React, JavaScript, Vite, Supabase e Vercel.
-      </p>
-      <a href="https://github.com/SALOMBRAS/PneuFlow">
-        <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-PneuFlow-f59e0b?style=for-the-badge&logo=github&logoColor=111827" alt="Ver repositório PneuFlow" />
-      </a>
+      <a href="https://revisao360.vercel.app"><img src="https://img.shields.io/badge/Ver%20no%20ar-f59e0b?style=for-the-badge&logo=vercel&logoColor=111827" alt="Ver Revisão 360 no ar" /></a>
+      <sub> pede login</sub>
     </td>
-    <td width="36%" align="center">
-      <img src="https://img.shields.io/badge/PneuFlow-Sistema%20para%20lojas%20de%20pneus-111827?style=for-the-badge&labelColor=f59e0b" alt="PneuFlow" />
-      <br /><br />
-      <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
-      <img src="https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+    <td width="50%" valign="top">
+      <h3>💰 Pague-On</h3>
+      <p>Gestão financeira, vendas e estoque <strong>offline-first</strong>, com login por biometria (WebAuthn), relatórios e notificações.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
+        <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=2D3748" />
+        <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1" />
+      </p>
+      <a href="https://pague-on.vercel.app"><img src="https://img.shields.io/badge/Ver%20no%20ar-f59e0b?style=for-the-badge&logo=vercel&logoColor=111827" alt="Ver Pague-On no ar" /></a>
+      <a href="https://github.com/SALOMBRAS/pague-on"><img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do Pague-On" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛞 PneuFlow</h3>
+      <p>Sistema e <strong>app Android</strong> para borracharia, com vitrine digital, controle de leads e pagamentos via Mercado Pago.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3FCF8E" />
+        <img src="https://img.shields.io/badge/Capacitor-111827?style=flat-square&logo=capacitor&logoColor=119EFF" />
+        <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" />
+      </p>
+      <a href="https://pneuflow.vercel.app"><img src="https://img.shields.io/badge/Ver%20no%20ar-f59e0b?style=for-the-badge&logo=vercel&logoColor=111827" alt="Ver PneuFlow no ar" /></a>
+      <a href="https://github.com/SALOMBRAS/PneuFlow"><img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do PneuFlow" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 Currículo animado</h3>
+      <p>Meu currículo como animação 2D: um dia de trabalho na orla de Fortaleza, das 05:50 às 19:30, com modo de leitura e impressão em PDF.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" />
+        <img src="https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=646CFF" />
+        <img src="https://img.shields.io/badge/GSAP-111827?style=flat-square&logo=greensock&logoColor=88CE02" />
+      </p>
+      <a href="https://pedro-salomao.vercel.app"><img src="https://img.shields.io/badge/Ver%20no%20ar-f59e0b?style=for-the-badge&logo=vercel&logoColor=111827" alt="Ver currículo animado no ar" /></a>
     </td>
   </tr>
 </table>
 
 ---
 
-<details open>
-  <summary><h2>Stack e ferramentas</h2></summary>
+## 🧰 Stack
 
-### Desenvolvimento Web
+<div align="center">
 
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=111827" />
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+**Linguagens**
 
-### Backend, banco e deploy
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,html,css&theme=dark" alt="TypeScript, JavaScript, Python, Go, HTML, CSS" />
 
-<p>
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=111827" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+**Front e mobile**
 
-### Ícones
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,electron&theme=dark" alt="React, Next.js, Tailwind, Electron" />
+<img src="https://img.shields.io/badge/Capacitor-111827?style=for-the-badge&logo=capacitor&logoColor=119EFF" alt="Capacitor" />
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45" alt="Vite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub" />
-</p>
-</details>
+**Back e dados**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,prisma&theme=dark" alt="Node.js, Express, PostgreSQL, Supabase, Prisma" />
+
+**Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=git,docker,vercel,githubactions&theme=dark" alt="Git, Docker, Vercel, GitHub Actions" />
+<img src="https://img.shields.io/badge/Gemini%20API-111827?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini API" />
+
+</div>
 
 ---
 
-<details open>
-  <summary><h2>Projetos principais</h2></summary>
+## 💼 Experiência
 
-| Projeto | Descrição | Tecnologias |
+| Período | Onde | Papel |
 |---|---|---|
-| **PneuFlow** | Sistema de gestão e vitrine digital para lojas de pneus | React, JavaScript, Vite, Supabase, Vercel |
+| **2026 – hoje** | **Trynux** | Desenvolvedor Full Stack — SaaS para escritórios de advocacia: CRM, WhatsApp com agentes de IA, agenda, assinatura digital e financeiro |
+| 2024 – 2025 | Infinity School | Assistente de TI — TI da unidade, suporte técnico e coordenação de estagiários |
+| 2024 | Infinity School | Estagiário de TI — manutenção preventiva de software e hardware nos laboratórios |
+| 2022 – 2024 | Aerys Energy | Líder de Manutenção — equipe, compras de peças e documentação de processos |
+
+<details>
+  <summary><strong>🎓 Formação e idiomas</strong></summary>
+
+<br />
+
+| Curso | Instituição | Período |
+|---|---|---|
+| Análise e Desenvolvimento de Sistemas | UFBRA | 2024 – 2026 |
+| Business Management (bacharelado) | Pixels | 2016 – 2020 |
+
+**Idiomas:** Português (nativo) · Inglês (básico)
+
+</details>
+
+<details>
+  <summary><strong>🏆 Conquistas</strong></summary>
+
+<br />
+
+- 👥 Liderei equipe de manutenção industrial por quase 2 anos
+- 🏫 Assumi sozinho a TI de uma unidade escolar
+- 🌐 3 sistemas web no ar: Revisão 360, Pague-On e PneuFlow
+- 🤖 App Android gerado a partir de um sistema web com Capacitor (PneuFlow)
+- 🔁 ~140 pull requests mergeados em 9 repositórios de um produto em produção
 
 </details>
 
 ---
 
-<details open>
-  <summary><h2>Formação acadêmica</h2></summary>
+## 📊 GitHub em números
 
-**Análise e Desenvolvimento de Sistemas**
+<div align="center">
 
-Formação voltada para desenvolvimento de software, lógica de programação, banco de dados, aplicações web e construção de soluções digitais.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SALOMBRAS&show_icons=true&hide_border=true&bg_color=0f172a&title_color=f59e0b&icon_color=f59e0b&text_color=e5e7eb&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SALOMBRAS&layout=compact&hide_border=true&bg_color=0f172a&title_color=f59e0b&text_color=e5e7eb&langs_count=8" alt="Linguagens mais usadas" />
 
-</details>
+<img height="165" src="https://streak-stats.demolab.com?user=SALOMBRAS&hide_border=true&background=0f172a&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=e5e7eb&currStreakNum=e5e7eb&sideNums=e5e7eb&dates=94a3b8" alt="Sequência de contribuições" />
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SALOMBRAS&bg_color=0f172a&color=e5e7eb&line=f59e0b&point=ffffff&area=true&area_color=f59e0b&hide_border=true&custom_title=Atividade%20dos%20%C3%BAltimos%2031%20dias" alt="Gráfico de atividade" />
 
-<details open>
-  <summary><h2>GitHub Stats</h2></summary>
-
-<p align="center">
-  <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api?username=SALOMBRAS&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=f59e0b&icon_color=f59e0b&text_color=e5e7eb"
-    alt="GitHub Stats"
-  />
-  <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SALOMBRAS&layout=compact&theme=dark&hide_border=true&bg_color=0f172a&title_color=f59e0b&text_color=e5e7eb"
-    alt="Linguagens mais utilizadas"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SALOMBRAS&bg_color=0f172a&color=e5e7eb&line=f59e0b&point=ffffff&area=true&area_color=f59e0b&hide_border=true"
-    alt="Gráfico de atividade GitHub"
-  />
-</p>
-
-</details>
+</div>
 
 ---
 
-## Contato
+## 📬 Contato
 
-<p align="center">
-  <a href="https://github.com/SALOMBRAS">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-SALOMBRAS-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
----
+<a href="https://pedro-salomao.vercel.app"><img alt="Currículo animado" src="https://img.shields.io/badge/Curr%C3%ADculo%20animado-pedro--salomao.vercel.app-f59e0b?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/pedro-salom%C3%A30/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pedro%20Salom%C3%A3o-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:pedrosalomao22099@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/pedrosalomao22099@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<p align="center">
-  <i>Construindo projetos reais enquanto evoluo como desenvolvedor web.</i>
-</p>
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,40:7c3aed,100:0f172a&height=130&section=footer&text=Do%20banco%20de%20dados%20%C3%A0%20tela&fontSize=22&fontColor=ffffff&fontAlignY=72" alt="" />
+
+</div>

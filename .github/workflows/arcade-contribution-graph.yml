@@ -1,0 +1,33 @@
+name: bomberman contribution graph
+
+on:
+  schedule:
+    # Todo dia às 03:00 UTC (00:00 em Fortaleza)
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: gera os SVGs do Bomberman (claro e escuro)
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: 'bomberman'
+          hide_month_labels: 'false'
+
+      - name: publica os SVGs no branch output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

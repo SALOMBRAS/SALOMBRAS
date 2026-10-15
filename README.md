@@ -32,8 +32,6 @@
   <img alt="Bomberman explodindo o gráfico de contribuições do SALOMBRAS" src="https://raw.githubusercontent.com/SALOMBRAS/SALOMBRAS/output/bomberman-contribution-graph.svg">
 </picture>
 
-<sub>Gerado todo dia por <a href="https://github.com/abozanona/pacman-contribution-graph">pacman-contribution-graph</a> · cada bloco é um dia de commit</sub>
-
 </div>
 
 ---

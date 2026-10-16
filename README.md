@@ -119,21 +119,35 @@ const pedro = {
 
 **Linguagens**
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,go,html,css&theme=dark" alt="TypeScript, JavaScript, Python, Go, HTML, CSS" />
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
 
 **Front e mobile**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,electron&theme=dark" alt="React, Next.js, Tailwind, Electron" />
-<img src="https://img.shields.io/badge/Capacitor-111827?style=for-the-badge&logo=capacitor&logoColor=119EFF" alt="Capacitor" />
+<p>
+<img src="https://img.shields.io/badge/React-087EA4?style=flat&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white" alt="Capacitor" />
+</p>
 
 **Back e dados**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,prisma&theme=dark" alt="Node.js, Express, PostgreSQL, Supabase, Prisma" />
+<p>
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
 
-**Ferramentas**
+**Infra e IA**
 
-<img src="https://skillicons.dev/icons?i=git,docker,vercel,githubactions&theme=dark" alt="Git, Docker, Vercel, GitHub Actions" />
-<img src="https://img.shields.io/badge/Gemini%20API-111827?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini API" />
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini API" />
+</p>
 
 </div>
 

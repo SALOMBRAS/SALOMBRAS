@@ -128,7 +128,6 @@ const pedro = {
 
 <p>
 <img src="https://img.shields.io/badge/React-087EA4?style=flat&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white" alt="Capacitor" />
 </p>
 

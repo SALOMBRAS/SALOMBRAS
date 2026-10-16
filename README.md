@@ -181,13 +181,13 @@ const pedro = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SALOMBRAS&show_icons=true&hide_border=true&bg_color=0f172a&title_color=f59e0b&icon_color=f59e0b&text_color=e5e7eb&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SALOMBRAS&layout=compact&hide_border=true&bg_color=0f172a&title_color=f59e0b&text_color=e5e7eb&langs_count=8" alt="Linguagens mais usadas" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SALOMBRAS&show_icons=true&hide_border=true&bg_color=0f172a&title_color=f59e0b&icon_color=f59e0b&text_color=e5e7eb&include_all_commits=true&count_private=true&v=20261016" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SALOMBRAS&layout=compact&hide_border=true&bg_color=0f172a&title_color=f59e0b&text_color=e5e7eb&langs_count=8&v=20261016" alt="Linguagens mais usadas" />
 
-<img height="165" src="https://streak-stats.demolab.com?user=SALOMBRAS&hide_border=true&background=0f172a&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=e5e7eb&currStreakNum=e5e7eb&sideNums=e5e7eb&dates=94a3b8" alt="Sequência de contribuições" />
+<img height="165" src="https://streak-stats.demolab.com?user=SALOMBRAS&hide_border=true&background=0f172a&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=e5e7eb&currStreakNum=e5e7eb&sideNums=e5e7eb&dates=94a3b8&v=20261016" alt="Sequência de contribuições" />
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SALOMBRAS&theme=github_dark" alt="Linguagem com mais commits" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SALOMBRAS&theme=github_dark&utcOffset=-3" alt="Horários mais produtivos" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SALOMBRAS&theme=github_dark&v=20261016" alt="Linguagem com mais commits" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SALOMBRAS&theme=github_dark&utcOffset=-3&v=20261016" alt="Horários mais produtivos" />
 
 </div>
 

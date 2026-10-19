@@ -194,7 +194,7 @@ const pedro = {
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=SALOMBRAS&show_icons=true&hide_border=true&bg_color=0f172a&title_color=f59e0b&icon_color=f59e0b&text_color=e5e7eb&include_all_commits=true&count_private=true&v=20261016" alt="Estatísticas do GitHub" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SALOMBRAS&layout=compact&hide_border=true&bg_color=0f172a&title_color=f59e0b&text_color=e5e7eb&langs_count=8&v=20261016" alt="Linguagens mais usadas" />
 
-<img height="165" src="https://streak-stats.demolab.com?user=SALOMBRAS&hide_border=true&background=0f172a&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=e5e7eb&currStreakNum=e5e7eb&sideNums=e5e7eb&dates=94a3b8&v=20261016" alt="Sequência de contribuições" />
+<img height="165" src="https://streak-stats.demolab.com?user=SALOMBRAS&hide_border=true&background=0f172a&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=e5e7eb&currStreakNum=e5e7eb&sideNums=e5e7eb&dates=94a3b8&mode=daily&v=20261019" alt="Sequência de contribuições" />
 
 <img height="165" src="https://raw.githubusercontent.com/SALOMBRAS/SALOMBRAS/output/summary/2-most-commit-language.svg" alt="Linguagem com mais commits" />
 <img height="165" src="https://raw.githubusercontent.com/SALOMBRAS/SALOMBRAS/output/summary/4-productive-time.svg" alt="Horários mais produtivos" />

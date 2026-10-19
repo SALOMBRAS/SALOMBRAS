@@ -28,6 +28,28 @@ jobs:
           games: 'bomberman'
           hide_month_labels: 'false'
 
+      # Os cards "linguagem com mais commits" e "horários produtivos" vinham da
+      # instância pública (github-profile-summary-cards.vercel.app), que estoura
+      # o limite da API e mostra "ERROR!!! rate limited". Gerados aqui, vão junto
+      # para o branch output. Usa só o token do Actions (nunca o token pessoal)
+      # e a Action fica fixada num commit.
+      - name: gera os cards de resumo do perfil
+        continue-on-error: true
+        uses: vn7n24fzkq/github-profile-summary-cards@09ba4dde3f9b05828cb99553561db3f4ff07703f # release
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: -3
+          THEME: github_dark
+          AUTO_PUSH: false
+
+      - name: junta os cards de resumo aos SVGs do Bomberman
+        run: |
+          mkdir -p dist/summary
+          cp profile-summary-card-output/github_dark/*.svg dist/summary/ || true
+          ls dist dist/summary
+
       - name: publica os SVGs no branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

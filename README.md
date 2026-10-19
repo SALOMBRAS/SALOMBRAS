@@ -196,8 +196,8 @@ const pedro = {
 
 <img height="165" src="https://streak-stats.demolab.com?user=SALOMBRAS&hide_border=true&background=0f172a&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=e5e7eb&currStreakNum=e5e7eb&sideNums=e5e7eb&dates=94a3b8&v=20261016" alt="Sequência de contribuições" />
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SALOMBRAS&theme=github_dark&v=20261016" alt="Linguagem com mais commits" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SALOMBRAS&theme=github_dark&utcOffset=-3&v=20261016" alt="Horários mais produtivos" />
+<img height="165" src="https://raw.githubusercontent.com/SALOMBRAS/SALOMBRAS/output/summary/2-most-commit-language.svg" alt="Linguagem com mais commits" />
+<img height="165" src="https://raw.githubusercontent.com/SALOMBRAS/SALOMBRAS/output/summary/4-productive-time.svg" alt="Horários mais produtivos" />
 
 </div>
 

@@ -196,7 +196,7 @@ const pedro = {
       <img height="170" src="https://github-readme-stats.vercel.app/api?username=SALOMBRAS&show_icons=true&hide_border=true&bg_color=0f172a&title_color=f59e0b&icon_color=f59e0b&text_color=e5e7eb&count_private=true&rank_icon=github&v=20261028b" alt="Estatísticas do GitHub" />
     </td>
     <td align="center" valign="top">
-      <img height="170" src="https://streak-stats.demolab.com?user=SALOMBRAS&hide_border=true&background=0f172a&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=e5e7eb&currStreakNum=e5e7eb&sideNums=e5e7eb&dates=94a3b8&mode=daily&v=20261028b" alt="Sequência de contribuições" />
+      <img height="170" src="https://raw.githubusercontent.com/SALOMBRAS/SALOMBRAS/output/summary/streak.svg" alt="Sequência de contribuições" />
     </td>
   </tr>
   <tr>

@@ -44,6 +44,17 @@ jobs:
           THEME: github_dark
           AUTO_PUSH: false
 
+      # O card de sequência (streak-stats.demolab.com) guarda cache por 24 h e
+      # só via repositório público. Gerado aqui com o GraphQL do GitHub, mostra
+      # a sequência real e atualiza a cada run.
+      - uses: actions/checkout@v4
+        with:
+          path: src
+      - name: gera o card de sequência de contribuições
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node src/scripts/streak-card.mjs "${{ github.repository_owner }}" dist/summary/streak.svg
+
       - name: junta os cards de resumo aos SVGs do Bomberman
         run: |
           mkdir -p dist/summary

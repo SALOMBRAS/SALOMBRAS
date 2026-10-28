@@ -20,6 +20,8 @@
 
 </div>
 
+<br />
+
 <!-- ────────────────  MINIGAME: BOMBERMAN NAS CONTRIBUIÇÕES  ──────────────── -->
 
 <div align="center">
@@ -33,6 +35,8 @@
 </picture>
 
 </div>
+
+<br />
 
 ---
 
@@ -111,41 +115,38 @@ const pedro = {
   </tr>
 </table>
 
+<br />
+
 ---
 
 ## 🧰 Stack
 
-<div align="center">
-
-**Linguagens**
-
-<p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
-**Front e mobile**
-
-<p>
-<img src="https://img.shields.io/badge/React-087EA4?style=flat&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white" alt="Capacitor" />
-</p>
-
-**Back e dados**
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
-**Infra**
-
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
-</p>
-
-</div>
+<table align="center">
+  <tr>
+    <th align="center">Linguagens</th>
+    <th align="center">Front e mobile</th>
+    <th align="center">Back e dados</th>
+    <th align="center">Infra</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-087EA4?style=flat&logo=react&logoColor=white" alt="React" />
+      <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white" alt="Capacitor" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -189,17 +190,24 @@ const pedro = {
 
 ## 📊 GitHub em números
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SALOMBRAS&show_icons=true&hide_border=true&bg_color=0f172a&title_color=f59e0b&icon_color=f59e0b&text_color=e5e7eb&include_all_commits=true&count_private=true&v=20261016" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SALOMBRAS&layout=compact&hide_border=true&bg_color=0f172a&title_color=f59e0b&text_color=e5e7eb&langs_count=8&v=20261016" alt="Linguagens mais usadas" />
-
-<img height="165" src="https://streak-stats.demolab.com?user=SALOMBRAS&hide_border=true&background=0f172a&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=e5e7eb&currStreakNum=e5e7eb&sideNums=e5e7eb&dates=94a3b8&mode=daily&v=20261019" alt="Sequência de contribuições" />
-
-<img height="165" src="https://raw.githubusercontent.com/SALOMBRAS/SALOMBRAS/output/summary/2-most-commit-language.svg" alt="Linguagem com mais commits" />
-<img height="165" src="https://raw.githubusercontent.com/SALOMBRAS/SALOMBRAS/output/summary/4-productive-time.svg" alt="Horários mais produtivos" />
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=SALOMBRAS&show_icons=true&hide_border=true&bg_color=0f172a&title_color=f59e0b&icon_color=f59e0b&text_color=e5e7eb&count_private=true&rank_icon=github&v=20261028" alt="Estatísticas do GitHub" />
+    </td>
+    <td align="center" valign="top">
+      <img height="170" src="https://streak-stats.demolab.com?user=SALOMBRAS&hide_border=true&background=0f172a&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=e5e7eb&currStreakNum=e5e7eb&sideNums=e5e7eb&dates=94a3b8&mode=daily&v=20261028" alt="Sequência de contribuições" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SALOMBRAS&layout=compact&hide_border=true&bg_color=0f172a&title_color=f59e0b&text_color=e5e7eb&langs_count=6&v=20261028" alt="Linguagens mais usadas" />
+    </td>
+    <td align="center" valign="top">
+      <img height="170" src="https://raw.githubusercontent.com/SALOMBRAS/SALOMBRAS/output/summary/4-productive-time.svg" alt="Horários mais produtivos" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -207,11 +215,10 @@ const pedro = {
 
 <div align="center">
 
-<a href="https://pedro-salomao.vercel.app"><img alt="Currículo animado" src="https://img.shields.io/badge/Curr%C3%ADculo%20animado-pedro--salomao.vercel.app-f59e0b?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/pedro-salom%C3%A30/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pedro%20Salom%C3%A3o-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:pedrosalomao22099@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/pedrosalomao22099@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/pedro-salom%C3%A30/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pedro%20Salom%C3%A3o-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<br /><br />
+<br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,40:7c3aed,100:0f172a&height=130&section=footer&text=Do%20banco%20de%20dados%20%C3%A0%20tela&fontSize=22&fontColor=ffffff&fontAlignY=72" alt="" />
 

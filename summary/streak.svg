@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Sequência de contribuições de SALOMBRAS">
+  <title>Sequência de contribuições: 62 dias atuais, 62 no máximo, 3,059 no total</title>
+  <rect width="495" height="195" rx="4.5" fill="#0f172a"/>
+  <line x1="165" y1="28" x2="165" y2="170" stroke="#f59e0b" stroke-opacity=".35"/>
+  <line x1="330" y1="28" x2="330" y2="170" stroke="#f59e0b" stroke-opacity=".35"/>
+
+  <text x="82" y="80" text-anchor="middle" fill="#e5e7eb" font-size="28" font-weight="700" font-family="Segoe UI,Ubuntu,sans-serif">3,059</text>
+  <text x="82" y="112" text-anchor="middle" fill="#e5e7eb" font-size="14" font-weight="400" font-family="Segoe UI,Ubuntu,sans-serif">Total Contributions</text>
+  <text x="82" y="138" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="Segoe UI,Ubuntu,sans-serif">Sep 5, 2018 - Present</text>
+
+  <circle cx="247" cy="71" r="40" fill="none" stroke="#f59e0b" stroke-width="5"/>
+  <circle cx="247" cy="29" r="10" fill="#0f172a"/>
+  <text x="247" y="36" text-anchor="middle" font-size="18">🔥</text>
+  <text x="247" y="81" text-anchor="middle" fill="#e5e7eb" font-size="28" font-weight="700" font-family="Segoe UI,Ubuntu,sans-serif">62</text>
+  <text x="247" y="136" text-anchor="middle" fill="#f59e0b" font-size="14" font-weight="700" font-family="Segoe UI,Ubuntu,sans-serif">Current Streak</text>
+  <text x="247" y="158" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="Segoe UI,Ubuntu,sans-serif">Aug 30 - Oct 30</text>
+
+  <text x="412" y="80" text-anchor="middle" fill="#e5e7eb" font-size="28" font-weight="700" font-family="Segoe UI,Ubuntu,sans-serif">62</text>
+  <text x="412" y="112" text-anchor="middle" fill="#e5e7eb" font-size="14" font-weight="400" font-family="Segoe UI,Ubuntu,sans-serif">Longest Streak</text>
+  <text x="412" y="138" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="Segoe UI,Ubuntu,sans-serif">Aug 30 - Oct 30</text>
+</svg>

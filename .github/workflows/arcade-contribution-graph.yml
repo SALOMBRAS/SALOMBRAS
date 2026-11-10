@@ -50,10 +50,17 @@ jobs:
       - uses: actions/checkout@v4
         with:
           path: src
+      # Os dois cards abaixo são scripts deste repositório, então podem usar o
+      # token pessoal (read:user) para enxergar as contribuições privadas.
       - name: gera o card de sequência de contribuições
         env:
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.GH_CONTRIB_TOKEN || github.token }}
         run: node src/scripts/streak-card.mjs "${{ github.repository_owner }}" dist/summary/streak.svg
+
+      - name: gera o card de estatísticas
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_CONTRIB_TOKEN || github.token }}
+        run: node src/scripts/stats-card.mjs "${{ github.repository_owner }}" dist/summary/stats.svg
 
       - name: junta os cards de resumo aos SVGs do Bomberman
         run: |

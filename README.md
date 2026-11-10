@@ -193,7 +193,7 @@ const pedro = {
 <table align="center">
   <tr>
     <td align="center" valign="top">
-      <img height="170" src="https://raw.githubusercontent.com/SALOMBRAS/SALOMBRAS/output/summary/3-stats.svg" alt="Estatísticas do GitHub" />
+      <img height="170" src="https://raw.githubusercontent.com/SALOMBRAS/SALOMBRAS/output/summary/stats.svg" alt="Estatísticas do GitHub" />
     </td>
     <td align="center" valign="top">
       <img height="170" src="https://raw.githubusercontent.com/SALOMBRAS/SALOMBRAS/output/summary/streak.svg" alt="Sequência de contribuições" />

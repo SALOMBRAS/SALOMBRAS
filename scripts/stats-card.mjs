@@ -41,10 +41,12 @@ for (const y of u.contributionsCollection.contributionYears) {
   const d = await gql(
     `query($login:String!,$from:DateTime!,$to:DateTime!){
       user(login:$login){ contributionsCollection(from:$from,to:$to){
-        totalCommitContributions restrictedContributionsCount } } }`,
+        totalCommitContributions restrictedContributionsCount
+        contributionCalendar{ totalContributions } } } }`,
     { login: user, from: `${y}-01-01T00:00:00Z`, to: `${y}-12-31T23:59:59Z` },
   );
   const c = d.user.contributionsCollection;
+  console.log(`${y}: commits=${c.totalCommitContributions} restritas=${c.restrictedContributionsCount} calendario=${c.contributionCalendar.totalContributions}`);
   commits += c.totalCommitContributions + c.restrictedContributionsCount;
 }
 

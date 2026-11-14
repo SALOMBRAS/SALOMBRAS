@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Estatísticas do GitHub de SALOMBRAS">
+  <title>Total Stars: 4, Total Commits: 3,396, Total PRs: 233, Total Issues: 0, Contributed to: 10</title>
+  <rect width="495" height="195" rx="4.5" fill="#0f172a"/>
+  <text x="25" y="35" fill="#f59e0b" font-size="18" font-weight="600" font-family="Segoe UI,Ubuntu,sans-serif">GitHub Stats</text>
+  <circle cx="32" cy="61" r="4" fill="#f59e0b"/>
+  <text x="46" y="66" fill="#e5e7eb" font-size="14" font-weight="600" font-family="Segoe UI,Ubuntu,sans-serif">Total Stars:</text>
+  <text x="230" y="66" fill="#e5e7eb" font-size="14" font-weight="700" font-family="Segoe UI,Ubuntu,sans-serif">4</text>
+  <circle cx="32" cy="86" r="4" fill="#f59e0b"/>
+  <text x="46" y="91" fill="#e5e7eb" font-size="14" font-weight="600" font-family="Segoe UI,Ubuntu,sans-serif">Total Commits:</text>
+  <text x="230" y="91" fill="#e5e7eb" font-size="14" font-weight="700" font-family="Segoe UI,Ubuntu,sans-serif">3,396</text>
+  <circle cx="32" cy="111" r="4" fill="#f59e0b"/>
+  <text x="46" y="116" fill="#e5e7eb" font-size="14" font-weight="600" font-family="Segoe UI,Ubuntu,sans-serif">Total PRs:</text>
+  <text x="230" y="116" fill="#e5e7eb" font-size="14" font-weight="700" font-family="Segoe UI,Ubuntu,sans-serif">233</text>
+  <circle cx="32" cy="136" r="4" fill="#f59e0b"/>
+  <text x="46" y="141" fill="#e5e7eb" font-size="14" font-weight="600" font-family="Segoe UI,Ubuntu,sans-serif">Total Issues:</text>
+  <text x="230" y="141" fill="#e5e7eb" font-size="14" font-weight="700" font-family="Segoe UI,Ubuntu,sans-serif">0</text>
+  <circle cx="32" cy="161" r="4" fill="#f59e0b"/>
+  <text x="46" y="166" fill="#e5e7eb" font-size="14" font-weight="600" font-family="Segoe UI,Ubuntu,sans-serif">Contributed to:</text>
+  <text x="230" y="166" fill="#e5e7eb" font-size="14" font-weight="700" font-family="Segoe UI,Ubuntu,sans-serif">10</text>
+</svg>
